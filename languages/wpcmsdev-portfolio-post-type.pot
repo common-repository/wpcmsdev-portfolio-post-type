@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpcmsdev-portfolio-post-type\n"
+"POT-Creation-Date: 2014-09-18 11:00-0500\n"
+"PO-Revision-Date: 2014-09-18 11:00-0500\n"
+"Last-Translator: Philip Newcomer <contact@philipnewcomer.net>\n"
+"Language-Team: wpCMSdev\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../wpcmsdev-portfolio-post-type.php:39
+msgid "Portfolio Items"
+msgstr ""
+
+#: ../wpcmsdev-portfolio-post-type.php:40
+msgid "Portfolio"
+msgstr ""
+
+#: ../wpcmsdev-portfolio-post-type.php:41
+msgid "Portfolio Item"
+msgstr ""
+
+#: ../wpcmsdev-portfolio-post-type.php:42
+msgid "All Portfolio Items"
+msgstr ""
+
+#: ../wpcmsdev-portfolio-post-type.php:43
+msgctxt "portfolio item"
+msgid "Add New"
+msgstr ""
+
+#: ../wpcmsdev-portfolio-post-type.php:44
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: ../wpcmsdev-portfolio-post-type.php:45
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: ../wpcmsdev-portfolio-post-type.php:46
+msgid "New Portfolio Item"
+msgstr ""
+
+#: ../wpcmsdev-portfolio-post-type.php:47
+msgid "View Portfolio Item"
+msgstr ""
+
+#: ../wpcmsdev-portfolio-post-type.php:48
+msgid "Search Portfolio Items"
+msgstr ""
+
+#: ../wpcmsdev-portfolio-post-type.php:49
+msgid "No portfolio items found."
+msgstr ""
+
+#: ../wpcmsdev-portfolio-post-type.php:50
+msgid "No portfolio items found in Trash."
+msgstr ""
+
+#: ../wpcmsdev-portfolio-post-type.php:59
+msgctxt "portfolio single post url slug"
+msgid "portfolio"
+msgstr ""
+
+#: ../wpcmsdev-portfolio-post-type.php:88
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr ""
+
+#: ../wpcmsdev-portfolio-post-type.php:89
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr ""
+
+#: ../wpcmsdev-portfolio-post-type.php:90
+msgid "All Categories"
+msgstr ""
+
+#: ../wpcmsdev-portfolio-post-type.php:91
+msgid "Edit Categories"
+msgstr ""
+
+#: ../wpcmsdev-portfolio-post-type.php:92
+msgid "View Category"
+msgstr ""
+
+#: ../wpcmsdev-portfolio-post-type.php:93
+msgid "Update Category"
+msgstr ""
+
+#: ../wpcmsdev-portfolio-post-type.php:94
+msgid "Add New Category"
+msgstr ""
+
+#: ../wpcmsdev-portfolio-post-type.php:95
+msgid "New Category Name"
+msgstr ""
+
+#: ../wpcmsdev-portfolio-post-type.php:96
+msgid "Parent Category"
+msgstr ""
+
+#: ../wpcmsdev-portfolio-post-type.php:97
+msgid "Parent Category:"
+msgstr ""
+
+#: ../wpcmsdev-portfolio-post-type.php:98
+msgid "Search Categories"
+msgstr ""
+
+#: ../wpcmsdev-portfolio-post-type.php:104
+msgctxt "portfolio category taxonomy url slug"
+msgid "portfolio-category"
+msgstr ""
+
+#: ../wpcmsdev-portfolio-post-type.php:158
+msgid "Order"
+msgstr ""
+
+#: ../wpcmsdev-portfolio-post-type.php:159
+msgid "Image"
+msgstr ""
+
+#: ../wpcmsdev-portfolio-post-type.php:160
+#: ../wpcmsdev-portfolio-post-type.php:245
+msgid "Project URL"
+msgstr ""
+
+#: ../wpcmsdev-portfolio-post-type.php:241
+msgid "Portfolio Settings"
+msgstr ""
